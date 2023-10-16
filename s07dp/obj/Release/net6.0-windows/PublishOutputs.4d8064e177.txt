@@ -1,0 +1,5 @@
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\s07dp\s07dp\bin\Release\net6.0-windows\publish\s07dp.exe
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\s07dp\s07dp\bin\Release\net6.0-windows\publish\s07dp.dll
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\s07dp\s07dp\bin\Release\net6.0-windows\publish\s07dp.deps.json
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\s07dp\s07dp\bin\Release\net6.0-windows\publish\s07dp.runtimeconfig.json
+C:\Users\nilvi\Desktop\Treballs FP\DAM2 - M07 - Desenvolupament d'interfícies\s07dp\s07dp\bin\Release\net6.0-windows\publish\s07dp.pdb
